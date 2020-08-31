@@ -1,5 +1,5 @@
 # BookTicket
-Rest ApI for ticket booking system using Spring Boot,JPA,h2.</br>
+Rest ApI for ticket booking, built using Spring Boot,JPA,h2.</br>
 
 <b>1. Book ticket</b>
 
