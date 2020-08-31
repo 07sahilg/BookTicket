@@ -2,7 +2,6 @@ package com.example.shows.demo.User;
 
 import org.springframework.data.relational.core.sql.In;
 import org.springframework.stereotype.Repository;
-
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
